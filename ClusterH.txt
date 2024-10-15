@@ -62,3 +62,4 @@ hpc_des_a_5_title.txt | abides gym gym environments for multi agent discrete eve
 pdes_gs_2707_title.txt | integrated lean concepts and continuousdiscrete event simulation to examine productivity improvement in door assembly line for residential buildings 
 hpc_des_a_63_title.txt | loss of distributed coverage using lazy agents operating under discrete local event triggered communication 
 pdes_gs_1887_title.txt | despc discreteevent simulation package for 
+

@@ -1,4 +1,5 @@
 hpc_distrib_gs_14_title.txt | discrete event based simulator for distributed deep learning
+pdes_a_15_title.txt | discrete event based simulator for distributed deep learning
 hpc_des_a_36_title.txt | machine learning based approach for online fault diagnosis of discrete event system 
 hpc_distrib_gs_1_title.txt | design of distributed discrete event simulation systems using deep belief networks 
 hpc_des_a_28_title.txt | persistence based discretization for learning discrete event systems from time series 

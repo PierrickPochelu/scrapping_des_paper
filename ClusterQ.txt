@@ -1,4 +1,6 @@
+hpc_des_gs_1656_title.txt | netsquid network simulator for quantum information using discrete events
 hpc_des_a_16_title.txt | netsquid network simulator for quantum information using discrete events
+pdes_gs_2307_title.txt | sequence customizable discrete event simulator of quantum networks
 pdes_a_35_title.txt | sequence customizable discrete event simulator of quantum networks 
 pdes_gs_1284_title.txt | scalable quantum key distribution network testbed using parallel discrete event simulation 
 hpc_des_a_19_title.txt | studying the anonymity trilemma with discrete event mix network simulator 

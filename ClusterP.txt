@@ -1,3 +1,4 @@
+hpc_distrib_gs_13_title.txt | unified cloud enabled discrete event parallel and distributed simulation architecture
 pdes_a_2_title.txt | unified cloud enabled discrete event parallel and distributed simulation architecture
 pdes_gs_32_title.txt | efficient non blocking event management for speculative parallel discrete event simulation 
 pdes_gs_64_title.txt | hybrid speculative synchronisation for parallel discrete event simulation 

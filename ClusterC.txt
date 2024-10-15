@@ -1,0 +1,51 @@
+hpc_des_a_22_title.txt | event triggered control for discrete time delay systems 
+hpc_distrib_a_33_title.txt | supervisory control of quantum discrete event systems 
+hpc_des_a_58_title.txt | framework for the analysis of supervised discrete event systems under attack 
+hpc_distrib_a_45_title.txt | model based and data driven control of event and self triggered discrete time lti systems 
+pdes_a_7_title.txt | local opacity verification for distributed discrete event systems 
+hpc_distrib_a_13_title.txt | reconfigurable timed discrete event systems 
+hpc_distrib_a_34_title.txt | distributed nonblocking supervisory control of timed discrete event systems with communication delays and losses 
+hpc_distrib_a_64_title.txt | game theoretical approach for optimal supervisory control of discrete event systems under energy constraints 
+pdes_a_12_title.txt | strongly consistent distributed discrete event systems 
+hpc_distrib_a_20_title.txt | distributed secret securing in discrete event systems 
+hpc_des_a_46_title.txt | persistence based discretization for learning discrete event systems from time series 
+pdes_a_47_title.txt | more on maximally permissive similarity control of discrete event systems 
+pdes_a_46_title.txt | unified method to decentralized state inference and fault diagnosisprediction of discrete event systems 
+pdes_a_41_title.txt | new approach for verification of delay coobservability of discrete event systems 
+hpc_distrib_a_59_title.txt | privacy preserving supervisory control of discrete event systems via co synthesis of edit function and supervisor for opacity enforcement and requirement satisfaction 
+hpc_des_a_55_title.txt | strong current state and initial state opacity of discrete event systems 
+pdes_a_48_title.txt | error and tamper tolerant state estimation for discrete event systems under cost constraints 
+hpc_des_a_60_title.txt | automatic reconfiguration of untimed discrete event systems 
+hpc_des_a_21_title.txt | discrete event controller synthesis for autonomous systems with deep learning perception components 
+hpc_des_a_64_title.txt | secure your intention on notions of pre opacity in discrete event systems 
+hpc_des_a_51_title.txt | unified concurrent composition method to stateevent inference and concealment in discrete event systems 
+pdes_a_31_title.txt | delayed impulsive stabilisation of discrete time systems periodic event triggering algorithm 
+hpc_des_a_66_title.txt | uniform framework for diagnosis of discrete event systems with unreliable sensors using linear temporal logic 
+hpc_des_a_61_title.txt | to transmit or not to transmit optimal sensor schedule for remote state estimation of discrete event systems 
+pdes_gs_2255_title.txt | integrated artificial neural network and discrete event simulation framework for regional development of refractory gold systems 
+hpc_des_a_45_title.txt | bounded synthesis and reinforcement learning of supervisors for stochastic discrete event systems with ltl specifications 
+pdes_a_36_title.txt | do what you know coupling knowledge with action in discrete event systems 
+hpc_des_a_59_title.txt | synthesis of covert sensor attacks in networked discrete event systems with non fifo channels 
+hpc_des_a_65_title.txt | fault diagnosis of discrete event systems under non deterministic observations with output fairness 
+pdes_gs_2569_title.txt | discrete event simulation method for performance analysis of an additive manufacturing in the dental clinic 
+hpc_distrib_a_30_title.txt | pricing time to event contingent cash flows discrete time survival analysis approach 
+pdes_a_32_title.txt | inference prediction and entropy rate estimation of continuous time discrete event processes 
+hpc_des_a_48_title.txt | integration of discrete event dynamics and machining dynamics for machine tool modeling analysis and algorithms 
+hpc_distrib_a_60_title.txt | artery an omnet based discrete event simulation framework for cellular vx 
+hpc_des_a_56_title.txt | cov abm stochastic discrete event agent based framework to simulate spatiotemporal dynamics of covid 
+pdes_gs_2737_title.txt | multi voltage level distributed backwardforward sweep power flow algorithm in an agent based discrete event simulation framework 
+hpc_des_a_18_title.txt | analysis of hospital bed requirements using discrete event simulation and mathematical modeling 
+pdes_gs_2734_title.txt | hybrid system dynamics discrete event simulation and data envelopment analysis to investigate boarding patients in acute hospitals 
+hpc_des_a_15_title.txt | the analysis of discrete event system in autonomous package delivery using legged robot and conveyor belt 
+hpc_des_gs_2382_title.txt | discrete event simulation of point processes computational complexity analysis on sparse graphs 
+pdes_a_29_title.txt | decaf discrete event based collaborative human robot framework for furniture assembly 
+pdes_gs_2297_title.txt | integration of quantification of margins and uncertainties methodology into parallel discrete event simulator framework 
+hpc_des_a_12_title.txt | an integrated system dynamics and discrete event supply chain simulation framework for supply chain resilience with non stationary pandemic demand 
+hpc_des_gs_1207_title.txt | deca discrete event inspired cellular automata for grain structure prediction in additive manufacturing 
+hpc_des_gs_1955_title.txt | gpu accelerated discrete event simulations towards industry manufacturing 
+hpc_des_gs_635_title.txt | reconfigurable scheduling as discrete event process monte carlo tree search in industrial manufacturing 
+hpc_des_a_62_title.txt | event representation with sequential semi supervised discrete variables 
+pdes_a_38_title.txt | discretecommunication and controlupdating in event triggered consensus 
+hpc_des_a_49_title.txt | joint estimation of discrete choice model and arrival rate with unobserved stock out events 
+pdes_a_43_title.txt | herder ants ant colony optimization with aphids for discrete event triggered dynamic optimization problems 
+hpc_des_a_69_title.txt | discrete sampling of extreme events modifies their statistics 

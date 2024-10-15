@@ -1,0 +1,17 @@
+hpc_des_a_16_title.txt | netsquid network simulator for quantum information using discrete events
+pdes_a_35_title.txt | sequence customizable discrete event simulator of quantum networks 
+pdes_gs_1284_title.txt | scalable quantum key distribution network testbed using parallel discrete event simulation 
+hpc_des_a_19_title.txt | studying the anonymity trilemma with discrete event mix network simulator 
+pdes_gs_792_title.txt | illustration of parallel and discrete event simulator using scala 
+pdes_a_13_title.txt | discrete event simulation of quantum walks 
+pdes_gs_2509_title.txt | network accelerator for parallel discrete event simulations 
+hpc_des_gs_1935_title.txt | benefits of optimistic parallel discrete event simulation for network on chip simulation 
+pdes_gs_2297_title.txt | integration of quantification of margins and uncertainties methodology into parallel discrete event simulator framework 
+hpc_des_a_67_title.txt | discrete outcome sensor networks multiple detection events and grouping detectors 
+pdes_gs_1707_title.txt | dons fast and affordable discrete event network simulation with automatic parallelization 
+hpc_distrib_a_52_title.txt | lr fhss sim discrete event simulator for lr fhss networks 
+pdes_a_45_title.txt | interaction networks from discrete event data by poisson multivariate mutual information estimation and information flow with applications from gene expression data 
+hpc_des_a_49_title.txt | joint estimation of discrete choice model and arrival rate with unobserved stock out events 
+hpc_des_a_69_title.txt | discrete sampling of extreme events modifies their statistics 
+hpc_distrib_a_61_title.txt | recomposition vs prediction novel anomaly detection for discrete events based on autoencoder 
+hpc_des_a_52_title.txt | joint modelling of recurrent and terminal events with discretely distributed non parametric frailty application on re hospitalizations and death in heart failure patients 

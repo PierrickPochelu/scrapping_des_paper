@@ -1,0 +1,35 @@
+hpc_distrib_gs_14_title.txt | discrete event based simulator for distributed deep learning
+hpc_des_a_36_title.txt | machine learning based approach for online fault diagnosis of discrete event system 
+hpc_distrib_gs_1_title.txt | design of distributed discrete event simulation systems using deep belief networks 
+hpc_des_a_28_title.txt | persistence based discretization for learning discrete event systems from time series 
+pdes_a_37_title.txt | simulation based optimization approach for the calibration of discrete event simulation model of an emergency department 
+pdes_a_27_title.txt | learning individual interactions from population dynamics with discrete event simulation model 
+hpc_des_gs_243_title.txt | sequence customizable discrete event simulator of quantum networks 
+pdes_a_25_title.txt | discrete event controller synthesis for autonomous systems with deep learning perception components 
+hpc_des_gs_253_title.txt | exploiting distributed discrete event simulation techniques for parallel execution of cellular automata 
+pdes_a_53_title.txt | artery an omnet based discrete event simulation framework for cellular vx 
+pdes_gs_43_title.txt | discrete event simulations for metro train operation under emergencies multi agent based model with parallel computing 
+hpc_distrib_gs_93_title.txt | agent based discrete event simulation environment for electric power distribution system analysis 
+hpc_des_gs_249_title.txt | optimizing cellular automata execution by distributed discrete event simulation techniques 
+pdes_a_40_title.txt | process knowledge driven change point detection for automated calibration of discrete event simulation models using machine learning 
+hpc_distrib_gs_82_title.txt | distributed computing of applications using rboinc package with applications to parallel discrete event simulation 
+hpc_des_a_39_title.txt | cov abm stochastic discrete event agent based framework to simulate spatiotemporal dynamics of covid 
+hpc_distrib_a_7_title.txt | model based recursive partitioning for discrete event times 
+hpc_des_gs_144_title.txt | developing applications on gpus discrete event simulator implementation 
+pdes_a_20_title.txt | netsquid network simulator for quantum information using discrete events 
+pdes_a_34_title.txt | using hybrid system dynamics and discrete event simulations to identify high leverage targets for process improvement in skill based organizational structure 
+hpc_distrib_a_17_title.txt | traders in strange land agent based discrete event market simulation of the figgie card game 
+pdes_a_32_title.txt | integrating machine learning with discrete event simulation for improving health referral processing in care management setting 
+hpc_des_a_22_title.txt | bounded synthesis and reinforcement learning of supervisors for stochastic discrete event systems with ltl specifications 
+hpc_des_a_38_title.txt | an agent based discrete event simulation of teleoperated driving in freight transport operations the fleet sizing problem 
+pdes_a_38_title.txt | decaf discrete event based collaborative human robot framework for furniture assembly 
+hpc_distrib_a_23_title.txt | studying the anonymity trilemma with discrete event mix network simulator 
+hpc_des_a_26_title.txt | structural hawkes processes for learning causal structure from discrete time event sequences 
+hpc_des_a_30_title.txt | integration of discrete event dynamics and machining dynamics for machine tool modeling analysis and algorithms 
+hpc_des_gs_190_title.txt | future computing summer internship project modeling deadlock in discrete event simulator to find metrics to measure its existence in simulation 
+hpc_des_a_18_title.txt | lr fhss sim discrete event simulator for lr fhss networks 
+pdes_a_19_title.txt | the analysis of discrete event system in autonomous package delivery using legged robot and conveyor belt 
+hpc_distrib_a_30_title.txt | deq mcl discrete event queue based monte carlo localization 
+pdes_a_36_title.txt | multi scale one class recurrent neural networks for discrete event sequence anomaly detection 
+hpc_des_a_13_title.txt | renovation of edgecloudsim an efficient discrete event approach 
+hpc_distrib_a_14_title.txt | discretecommunication and controlupdating in event triggered consensus 

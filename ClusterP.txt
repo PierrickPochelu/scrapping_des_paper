@@ -1,0 +1,48 @@
+pdes_a_2_title.txt | unified cloud enabled discrete event parallel and distributed simulation architecture
+pdes_gs_32_title.txt | efficient non blocking event management for speculative parallel discrete event simulation 
+pdes_gs_64_title.txt | hybrid speculative synchronisation for parallel discrete event simulation 
+hpc_distrib_gs_108_title.txt | scalable quantum key distribution network testbed using parallel discrete event simulation 
+pdes_gs_37_title.txt | distributed shared memory middleware for speculative parallel discrete event simulation 
+hpc_des_gs_256_title.txt | new methods for the effectiveness of speculative parallel discrete event simulation 
+pdes_gs_67_title.txt | performance evaluation of spintronic based spiking neural networks using parallel discrete event simulation 
+pdes_gs_78_title.txt | load aware dynamic time synchronization in parallel discrete event simulation 
+hpc_des_gs_31_title.txt | efficient autonomic cloud computing using online discrete event simulation 
+pdes_gs_46_title.txt | devastator scalable parallel discrete event simulation framework for modern 
+hpc_distrib_gs_16_title.txt | distributed energy resource operation analysis using discrete event simulation 
+pdes_gs_76_title.txt | pushing the limits of parallel discrete event simulation for systemc 
+hpc_des_gs_266_title.txt | gvt guided demand driven scheduling in parallel discrete event simulation 
+pdes_a_13_title.txt | discrete event simulation of quantum walks 
+pdes_a_31_title.txt | an approach to optimize study programs using discrete event simulation 
+hpc_des_a_8_title.txt | discrete event simulation in healthcare settings review 
+hpc_des_gs_153_title.txt | discrete event simulation in cloud edge manufacturing environments performance energy and cost trade offs 
+hpc_des_gs_158_title.txt | model driven engineering for high performance parallel discrete event simulations on heterogeneous architectures 
+pdes_gs_79_title.txt | virtual time iii part unified virtual time synchronization for parallel discrete event simulation 
+hpc_distrib_a_12_title.txt | discrete event simulation its easy with simpy 
+hpc_distrib_a_9_title.txt | efficient discrete event based particle tracking simulation for high energy physics 
+pdes_gs_5_title.txt | computer science research needs for parallel discrete event simulation pdes 
+hpc_des_a_7_title.txt | hospital capacity planning using discrete event simulation under special consideration of the covid pandemic 
+hpc_des_gs_39_title.txt | past challenges and the future of discrete event simulation 
+pdes_a_22_title.txt | analysis of hospital bed requirements using discrete event simulation and mathematical modeling 
+hpc_distrib_gs_107_title.txt | discrete event simulation of load distribution between server stations 
+pdes_gs_61_title.txt | reversible languages and incremental state saving in optimistic parallel discrete event simulation 
+hpc_distrib_a_11_title.txt | benchmark time series dataset for semiconductor fabrication manufacturing constructed using component based discrete event simulation models 
+hpc_distrib_a_24_title.txt | design space exploration of poultry fillet processing system using discrete event simulation 
+hpc_distrib_a_43_title.txt | successful implementation of discrete event simulation the case of an italian emergency department 
+pdes_a_46_title.txt | exploring the dynamics of the specialty insurance market using novel discrete event simulation framework lloyds of london case study 
+hpc_distrib_gs_47_title.txt | enhancing discrete event simulation with big data analytics review 
+hpc_des_a_16_title.txt | discrete event simulation for port berth maintenance planning 
+hpc_des_gs_108_title.txt | micro discrete event simulation environment for production scheduling in manufacturing digital twins 
+hpc_des_gs_244_title.txt | high level fuel fabrication facility designs from discrete event simulation 
+hpc_distrib_a_36_title.txt | discrete event simulation model for driver performance assessment application to autonomous vehicle cockpit design optimization 
+hpc_distrib_gs_92_title.txt | the diffusion of discrete event simulation approaches in health care management in the past four decades comprehensive review 
+pdes_a_30_title.txt | effect of different patient peak arrivals on an emergency department via discrete event simulation 
+pdes_a_44_title.txt | assessing the impact of emergency department short stay units using length of stay prediction and discrete event simulation 
+pdes_a_33_title.txt | policy interventions to improve inpatient mental healthcare access discrete event simulation study 
+hpc_des_a_43_title.txt | predicting performance of heterogeneous ai systems with discrete event simulations 
+hpc_des_a_10_title.txt | fast discrete event simulation of markovian queueing networks through euler approximation 
+hpc_distrib_gs_79_title.txt | brief introduction to deploy amazon web services for online discrete event simulation 
+pdes_a_5_title.txt | discrete event simulation of an extended einstein podolsky rosen bohm experiment 
+hpc_des_gs_181_title.txt | gpu accelerated discrete event simulations towards industry manufacturing 
+pdes_a_35_title.txt | discrete event simulation to evaluate shelter capacity expansion options for lgbtq homeless youth 
+hpc_des_a_12_title.txt | an integrated system dynamics and discrete event supply chain simulation framework for supply chain resilience with non stationary pandemic demand 
+hpc_des_a_5_title.txt | abides gym gym environments for multi agent discrete event simulation and application to financial markets 

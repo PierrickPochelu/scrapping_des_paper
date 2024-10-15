@@ -1,0 +1,64 @@
+hpc_des_a_33_title.txt | simulation based optimization approach for the calibration of discrete event simulation model of an emergency department 
+pdes_gs_2472_title.txt | hospital capacity planning using discrete event simulation under special consideration of the covid pandemic 
+hpc_des_a_7_title.txt | hospital capacity planning using discrete event simulation under special consideration of the covid pandemic 
+hpc_distrib_a_36_title.txt | an approach to optimize study programs using discrete event simulation 
+pdes_gs_2735_title.txt | generation of synthetic manufacturing datasets for machine learning using discrete event simulation 
+pdes_gs_2045_title.txt | data driven design strategies to address crowding and boarding in an emergency department discrete event simulation study 
+hpc_des_a_24_title.txt | automated design space exploration for poultry processing systems using discrete event simulation 
+pdes_gs_2491_title.txt | planning ward and intensive care unit beds for covid patients using discrete event simulation model 
+pdes_gs_2165_title.txt | comprehensive review and future research agenda on discrete event simulation and agent based simulation of emergency departments 
+hpc_des_a_20_title.txt | design space exploration of poultry fillet processing system using discrete event simulation 
+pdes_gs_1884_title.txt | using discrete event simulation for planning improvement in small batch size manufacturing system 
+hpc_des_a_31_title.txt | integrating machine learning with discrete event simulation for improving health referral processing in care management setting 
+hpc_des_gs_1792_title.txt | integrating discrete event simulation and genetic algorithm optimization for bridge maintenance planning 
+pdes_gs_2374_title.txt | case study initiating discrete event simulation as tool for decision making in manufacturing 
+pdes_gs_2481_title.txt | balancing scarce hospital resources during the covid pandemic using discrete event simulation 
+hpc_des_a_44_title.txt | successful implementation of discrete event simulation the case of an italian emergency department 
+hpc_des_a_36_title.txt | process knowledge driven change point detection for automated calibration of discrete event simulation models using machine learning 
+pdes_gs_1413_title.txt | resource allocation methodology based on object oriented discrete event simulation production logistics system case study 
+hpc_distrib_a_50_title.txt | discrete event simulation for port berth maintenance planning 
+hpc_des_gs_284_title.txt | efficient autonomic cloud computing using online discrete event simulation 
+pdes_gs_1955_title.txt | generation and tuning of discrete event simulation models for manufacturing applications 
+pdes_gs_895_title.txt | discrete event simulation approach for evaluation and estimation of various production parameters 
+hpc_des_a_8_title.txt | discrete event simulation in healthcare settings review 
+pdes_gs_2713_title.txt | real time data driven discrete event simulation for garment production lines 
+pdes_gs_2458_title.txt | the diffusion of discrete event simulation approaches in health care management in the past four decades comprehensive review 
+pdes_gs_1650_title.txt | bottleneck prediction and data driven discrete event simulation for balanced manufacturing line 
+pdes_gs_2736_title.txt | combining soft systems methodology ethnographic observation and discrete event simulation case study in cancer care 
+hpc_des_gs_1004_title.txt | using discrete event simulation for programming model exploration at extreme scale macroscale components for the structural simulation toolkit sst 
+pdes_a_13_title.txt | discrete event simulation of quantum walks 
+hpc_distrib_a_65_title.txt | machine learning based approach for online fault diagnosis of discrete event system 
+hpc_distrib_a_53_title.txt | exploring the dynamics of the specialty insurance market using novel discrete event simulation framework lloyds of london case study 
+pdes_gs_1936_title.txt | enhancing discrete event simulation with big data analytics review 
+pdes_gs_2306_title.txt | hybrid optimization and discrete event simulation model to reduce waiting times in primary health center 
+hpc_des_a_23_title.txt | learning individual interactions from population dynamics with discrete event simulation model 
+pdes_gs_583_title.txt | discrete event simulation algorithm for the optimization of multi scenario maintenance policies 
+pdes_gs_1340_title.txt | past challenges and the future of discrete event simulation 
+pdes_gs_2718_title.txt | applications of queuing theory and discrete event simulation in health care units of pakistan 
+hpc_des_gs_761_title.txt | micro discrete event simulation environment for production scheduling in manufacturing digital twins 
+hpc_distrib_a_12_title.txt | discrete event simulation its easy with simpy 
+hpc_des_a_26_title.txt | effect of different patient peak arrivals on an emergency department via discrete event simulation 
+hpc_des_a_40_title.txt | assessing the impact of emergency department short stay units using length of stay prediction and discrete event simulation 
+pdes_gs_2565_title.txt | transport of pilgrims during hajj evidence from discrete event simulation study 
+pdes_gs_2185_title.txt | real time discrete event simulation framework for an intelligent expert system approach utilising decision trees 
+hpc_des_gs_2678_title.txt | enhancing accessibility in academic buildings discrete event simulation approach for robotic assistance 
+hpc_des_gs_2724_title.txt | modelling and simulation of energy management of power split hybrid electric vehicles using the discrete event system specification 
+hpc_des_a_37_title.txt | discrete event simulation model for coordinating inventory management and material handling in hospitals 
+hpc_des_a_27_title.txt | policy interventions to improve inpatient mental healthcare access discrete event simulation study 
+pdes_gs_1625_title.txt | open source discrete event simulation software for applications in production and logistics an alternative to commercial tools 
+hpc_des_gs_646_title.txt | optimizing cellular automata execution by distributed discrete event simulation techniques 
+pdes_gs_2014_title.txt | applying discrete event simulation to reduce patient wait times and crowding the case of specialist outpatient clinic with dual practice system 
+pdes_gs_1397_title.txt | speeding up computational times in simheuristics combining genetic algorithms with discrete event simulation 
+hpc_des_a_13_title.txt | renovation of edgecloudsim an efficient discrete event approach 
+pdes_gs_2634_title.txt | designing optimal covid testing stations locally discrete event simulation model applied on university campus 
+hpc_des_gs_1094_title.txt | on techniques to handle risk in speculative paral lel discrete event simulation 
+pdes_gs_1844_title.txt | integrating process mining with discrete event simulation for dynamic productivity estimation in heavy civil construction operations 
+pdes_gs_2739_title.txt | partial least squares regression of oil sands processing variables within discrete event simulation digital twin 
+pdes_gs_2026_title.txt | brief introduction to deploy amazon web services for online discrete event simulation 
+hpc_des_gs_2416_title.txt | high level fuel fabrication facility designs from discrete event simulation 
+hpc_distrib_a_37_title.txt | discrete event simulation to evaluate shelter capacity expansion options for lgbtq homeless youth 
+pdes_a_5_title.txt | discrete event simulation of an extended einstein podolsky rosen bohm experiment 
+hpc_des_a_5_title.txt | abides gym gym environments for multi agent discrete event simulation and application to financial markets 
+pdes_gs_2707_title.txt | integrated lean concepts and continuousdiscrete event simulation to examine productivity improvement in door assembly line for residential buildings 
+hpc_des_a_63_title.txt | loss of distributed coverage using lazy agents operating under discrete local event triggered communication 
+pdes_gs_1887_title.txt | despc discreteevent simulation package for 
